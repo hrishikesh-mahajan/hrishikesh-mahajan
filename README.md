@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishikesh-mahajan&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikesh-mahajan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrishikesh-mahajan" alt="hrishikesh-mahajan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrishikesh-mahajan&column=-1&margin-w=15&margin-h=15&no-bg=true&rank=-C,-?" alt="hrishikesh-mahajan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
