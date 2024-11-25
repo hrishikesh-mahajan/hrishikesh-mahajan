@@ -16,9 +16,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrishikesh-mahajan&" alt="hrishikesh-mahajan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrishikesh-mahajan&show_icons=true&locale=en" alt="hrishikesh-mahajan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hrishikesh-mahajan&show_icons=true&locale=en" alt="hrishikesh-mahajan" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishikesh-mahajan&show_icons=true&locale=en&layout=compact" alt="hrishikesh-mahajan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishikesh-mahajan&show_icons=true&locale=en&layout=compact&langs_count=36&card_width=320" alt="hrishikesh-mahajan" /></p>
 
 
 <!---
