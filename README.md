@@ -51,16 +51,18 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /></a>
 </p>
 
-<p>
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrishikesh-mahajan&" alt="hrishikesh-mahajan" />
 </p>
 
-<p>
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrishikesh-mahajan&show_icons=true&locale=en" alt="hrishikesh-mahajan" />
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishikesh-mahajan&show_icons=true&locale=en&layout=compact&langs_count=36&card_width=320" alt="hrishikesh-mahajan" />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishikesh-mahajan&show_icons=true&locale=en&layout=compact&langs_count=36&card_width=320" alt="hrishikesh-mahajan" />
 </p>
 
 <!---
